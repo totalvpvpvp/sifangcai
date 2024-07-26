@@ -8,7 +8,7 @@
 
 SS协议峰值速率5Gbps，阿里云/IPLC过境提供，Reality/Hysteria2低倍率节点。
 
-VIP EMBY 服提供！超多免费影视/动漫等，EMBY专用0.01倍率节点。111
+VIP EMBY 服提供！超多免费影视/动漫等，EMBY专用0.01倍率节点。1111
 
 ## 私房菜优惠码
 
